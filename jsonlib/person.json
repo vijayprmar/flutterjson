@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Vijay Parmar",
+    "age" : 24,
+    "height" : "172",
+    "gender" : "male"
+  },
+  {
+    "name" : "Alia Bhatt",
+    "age" : 24,
+    "height" : "172",
+    "gender" : "female"
+  },
+  {
+    "name" : "Rohit Sharma",
+    "age" : 24,
+    "height" : "176",
+    "gender" : "male"
+  },
+  {
+    "name" : "Shirly Setia",
+    "age" : 22,
+    "height" : "172",
+    "gender" : "female"
+  },
+  {
+    "name" : "MS Dhoni",
+    "age" : 27,
+    "height" : "179",
+    "gender" : "male"
+  }
+]
